@@ -1,0 +1,4 @@
+Atividade 03
+
+Crie um Data Frame com Dicionários que deve conter: UF, Estado e População.
+OBS: O Estado deve estar na mesma Linha da sua UF.
